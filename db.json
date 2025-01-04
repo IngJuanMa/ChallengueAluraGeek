@@ -1,0 +1,123 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Infinity RN 4",
+      "marca": "Nike",
+      "precio": "205.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/68ad943b41fb7d33c33097ad85bf19273a886e6b/tenis%201.png?raw=true"
+    },
+    {
+      "id": "2",
+      "nombre": "Air Max Nuaxis",
+      "marca": "Nike",
+      "precio": "85.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/68ad943b41fb7d33c33097ad85bf19273a886e6b/tenis%202.png?raw=true"
+    },
+    {
+      "id": "3",
+      "nombre": "Air Zoom Pegasus 40",
+      "marca": "Nike",
+      "precio": "300.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/68ad943b41fb7d33c33097ad85bf19273a886e6b/tenis%203.png?raw=true"
+    },
+    {
+      "id": "4",
+      "nombre": "InfinityRN 4 DR2670",
+      "marca": "Nike",
+      "precio": "350.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/68ad943b41fb7d33c33097ad85bf19273a886e6b/tenis%204.png?raw=true"
+    },
+    {
+      "id": "5",
+      "nombre": "Air Max Plus",
+      "marca": "Nike",
+      "precio": "119.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/68ad943b41fb7d33c33097ad85bf19273a886e6b/tenis%205.png?raw=true"
+    },
+    {
+      "id": "6",
+      "nombre": "Air Max Excee",
+      "marca": "Nike",
+      "precio": "300.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/68ad943b41fb7d33c33097ad85bf19273a886e6b/tenis%206.png?raw=true"
+    },
+    {
+      "id": "8a72",
+      "nombre": "CourtBlock",
+      "marca": "Adidas",
+      "precio": "249.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%201.png?raw=true"
+    },
+    {
+      "id": "b711",
+      "nombre": "G9797",
+      "marca": "Adidas",
+      "precio": "320.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%202.png?raw=true"
+    },
+    {
+      "id": "a0db",
+      "nombre": "IF4515",
+      "marca": "Adidas",
+      "precio": "240.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%203.png?raw=true"
+    },
+    {
+      "id": "6ec1",
+      "nombre": "CourtBlock",
+      "marca": "Adidas",
+      "precio": "249.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%201.png?raw=true"
+    },
+    {
+      "id": "7",
+      "nombre": "CourtBlock",
+      "marca": "Adidas",
+      "precio": "249.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%201.png?raw=true"
+    },
+    {
+      "id": "8",
+      "nombre": "CourtBlock",
+      "marca": "Adidas",
+      "precio": "249.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%201.png?raw=true"
+    },
+    {
+      "id": "3a7a",
+      "nombre": "CourtBlock",
+      "marca": "Adidas",
+      "precio": "249.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%201.png?raw=true"
+    },
+    {
+      "id": "4069",
+      "nombre": "G9797",
+      "marca": "Adidas",
+      "precio": "320.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%202.png?raw=true"
+    },
+    {
+      "id": "71bc",
+      "nombre": "CourtBlock",
+      "marca": "Adidas",
+      "precio": "249.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%203.png?raw=true"
+    },
+    {
+      "id": "9fb0",
+      "nombre": "Venus",
+      "marca": "Venus Topo",
+      "precio": "320.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%201.png?raw=true"
+    },
+    {
+      "id": "2f27",
+      "nombre": "sapoperro",
+      "marca": "Adidas",
+      "precio": "320.00",
+      "imagen": "https://github.com/IngJuanMa/Imagenes-productos/blob/0cb72a0ccd720c21cf516973547e46873155d421/adidas%201.png?raw=true"
+    }
+  ]
+}

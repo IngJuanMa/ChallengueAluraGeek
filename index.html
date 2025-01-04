@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alura Geek</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="./Assets/logo.png" type="image/x-icon">
+</head>
+<body>
+    <header>    
+        <h1>Alura Geek / Sports</h1>
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Buscar productos">
+            <button id="searchButton">Buscar</button>
+        </div>  
+    </header>
+    
+    <main>
+        <section id="productList">
+            <h2> Mis Productos</h2>
+            <ul id="productContainer" data-product >
+                <!-- Los productos se agregarán aquí dinámicamente -->
+                <!-- <li class="card">
+                    <img src="./Assets/tenis 1.png" alt="Producto 1">
+                    <div id="card-pequeño">
+                        <h3>Infinity RN 4</h3>
+                        <p>Nike</p>
+                        <p class="precio-articulo">$205.00</p>
+                        <button class="delete-cart"> <img src="./Assets/delete-2-svgrepo-com.png" alt="boton-borrar"></button>                           </button>
+                    </div> -->
+                <!-- </li>
+                <li class="card">
+                    <img src="./Assets/tenis 2.png" alt="Producto 2">
+                    <div id="card-pequeño">
+                        <h3>Air Max Nuaxis</h3>
+                        <p>Nike</p>
+                        <p>$85.00</p>
+                        <button class="delete-cart" ><img src="./Assets/delete-2-svgrepo-com.png" alt="boton-borrar"></button>
+                    </div>
+                </li>
+                <li class="card">
+                    <img src="./Assets/tenis 3.png" alt="Producto 3">
+                    <div id="card-pequeño">
+                        <h3>Air Zoom Pegasus 40</h3>
+                        <p>Nike</p>
+                        <p>$300.00</p>
+                        <button class="delete-cart"><img src="./Assets/delete-2-svgrepo-com.png" alt="boton-borrar"></button>
+                    </div>
+                </li>
+                <li class="card">
+                    <img src="./Assets/tenis 4.png" alt="Producto 3">
+                    <div id="card-pequeño">
+                        <h3>InfinityRN 4 DR2670</h3>
+                        <p>Nike</p>
+                        <p>$350.00</p>
+                        <button class="delete-cart"><img src="./Assets/delete-2-svgrepo-com.png" alt="boton-borrar"></button>
+                    </div>
+                </li>
+                <li class="card">
+                    <img src="./Assets/tenis 5.png" alt="Producto 3">
+                    <div id="card-pequeño">
+                        <h3>Air Max Plus</h3>
+                        <p>Nike</p>
+                        <p>$119.00</p>
+                        <button class="delete-cart"><img src="./Assets/delete-2-svgrepo-com.png" alt="boton-borrar"></button>
+                    </div>
+                </li>
+                <li class="card">
+                    <img src="./Assets/tenis 6.png" alt="Producto 3">
+                    <div id="card-pequeño">
+                        <h3>Air Max Excee</h3>
+                        <p>Nike</p>
+                        <p>$300.00</p>
+                        <button class="delete-cart"><img src="./Assets/delete-2-svgrepo-com.png" alt="boton-borrar"></button>
+                    </div>
+                </li> -->
+            </ul>
+        </section>
+        
+        <section id="addProduct">
+            <h2>Agregar Producto</h2>
+            <form id="addProductForm">
+                <input type="text" id="productNombre" placeholder="Nombre del producto" required>
+                <input type="text" id="productPrecio" placeholder="Precio del producto" required>
+                <input type="text" id="productMarca" placeholder="Marca del producto" required>
+                <input type="text" id="productImagen" placeholder="Imagen del producto" required>
+                <button  id="boton-Agregar" type="submit">Agregar</button>
+                <button  id="boton-limpiar" type="submit">Limpiar</button>
+            </form>
+            
+        </section>
+        
+    </main>
+    <footer>
+        <h1>Alura Geek / Sports</h1>
+        <h2> <img src="./Assets/logo.png">Desing By: IngJuanMa</h2>
+        <p>Alura Latam 2024</p>
+    </footer>
+    <script src="./Js/mostrarCard.js" type="module"></script>
+    <script src="./Js/agregarCard.js" type="module"></script>
+    <script src="./Js/filtrarProducto.js" type="module"></script>
+</body>
+</html>
